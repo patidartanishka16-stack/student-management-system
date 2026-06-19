@@ -1,13 +1,19 @@
 # Student Management System
 
-Features:
-- Display Student
-- Search Student
-- Update Marks
+A simple Python project built using Object Oriented Programming (OOP).
+
+## Features
+- Add Student
+- Display Student Details
+- Search Student by Roll Number
+- Update Student Marks
 - Delete Student
 
-Built using Python OOP concepts:
-- Class
-- Object
-- Constructor
+## Concepts Used
+- Classes & Objects
+- Constructors
 - Methods
+- Lists of Objects
+- OOP Principles
+
+
